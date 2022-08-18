@@ -1,0 +1,2 @@
+module CradHelper
+end
