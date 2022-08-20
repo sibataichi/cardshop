@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'card/top'
+  get 'card/about'
+  get 'card/index'
+  get 'card/edit'
   get 'crad/top'
   get 'crad/about'
   get 'crad/index'
